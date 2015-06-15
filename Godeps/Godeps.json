@@ -1,0 +1,11 @@
+{
+	"ImportPath": "github.com/bomer/muchdatabase",
+	"GoVersion": "go1.4.1",
+	"Deps": [
+		{
+			"ImportPath": "github.com/jmoiron/sqlx",
+			"Comment": "sqlx-v1.1-17-gc06fc0c",
+			"Rev": "c06fc0ca86a92cca7ea9eb4333b095584e7746f3"
+		}
+	]
+}
